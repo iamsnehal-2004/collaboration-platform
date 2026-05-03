@@ -1,0 +1,27 @@
+{
+  "name": "collaboration-platform",
+  "version": "1.0.0",
+  "description": "Modern Serverless Collaboration Platform - A real-time workspace for team collaboration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:client\" \"npm run dev:api\"",
+    "dev:client": "cd client && npm run dev",
+    "dev:api": "cd api && npm run dev",
+    "install:all": "npm install && cd client && npm install && cd ../api && npm install",
+    "build": "cd client && npm run build",
+    "start": "cd client && npm start"
+  },
+  "keywords": [
+    "collaboration",
+    "real-time",
+    "serverless",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
