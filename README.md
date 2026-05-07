@@ -124,10 +124,6 @@ vercel --prod
 
 MIT License - feel free to use this project for learning or commercial purposes.
 
-## Author
-
-Snehal Vishwakarma - Final Year Engineering Project
-
 ## Acknowledgments
 
 Built as a final year project demonstrating full-stack development skills with modern web technologies.
