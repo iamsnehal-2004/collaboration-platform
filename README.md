@@ -12,7 +12,6 @@ A modern, real-time collaboration platform built with React, Node.js, and MongoD
 - **Responsive Design** - Works on desktop and mobile
 
 ## Tech Stack
-
 **Frontend**
 - React.js with Vite
 - Tailwind CSS
