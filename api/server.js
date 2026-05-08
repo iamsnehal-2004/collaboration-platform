@@ -109,4 +109,3 @@ process.on('uncaughtException', (err) => {
 
 module.exports = { app, server, io };
 
-// Made with Bob

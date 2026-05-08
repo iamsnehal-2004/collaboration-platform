@@ -164,5 +164,3 @@ const Login = () => {
 };
 
 export default Login;
-
-// Made with Bob

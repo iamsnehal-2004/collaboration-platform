@@ -382,5 +382,3 @@ const Workspace = () => {
 };
 
 export default Workspace;
-
-// Made with Bob

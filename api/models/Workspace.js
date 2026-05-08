@@ -153,4 +153,4 @@ workspaceSchema.pre('save', function(next) {
 
 module.exports = mongoose.model('Workspace', workspaceSchema);
 
-// Made with Bob
+

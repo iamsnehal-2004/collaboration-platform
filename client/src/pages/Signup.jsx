@@ -228,5 +228,3 @@ const Signup = () => {
 };
 
 export default Signup;
-
-// Made with Bob

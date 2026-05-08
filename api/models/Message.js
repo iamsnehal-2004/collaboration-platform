@@ -111,4 +111,3 @@ messageSchema.statics.createSystemMessage = function(workspaceId, content) {
 
 module.exports = mongoose.model('Message', messageSchema);
 
-// Made with Bob

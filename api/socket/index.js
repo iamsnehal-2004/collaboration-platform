@@ -307,4 +307,4 @@ module.exports = {
   typingUsers
 };
 
-// Made with Bob
+

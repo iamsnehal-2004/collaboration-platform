@@ -97,4 +97,4 @@ userSchema.methods.getPublicProfile = function() {
 
 module.exports = mongoose.model('User', userSchema);
 
-// Made with Bob
+

@@ -21,5 +21,3 @@ const PrivateRoute = ({ children }) => {
 };
 
 export default PrivateRoute;
-
-// Made with Bob
